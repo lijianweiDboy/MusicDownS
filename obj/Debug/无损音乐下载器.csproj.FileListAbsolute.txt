@@ -15,3 +15,5 @@ F:\MusicDown\obj\Debug\无损音乐下载器.csprojResolveAssemblyReference.cach
 F:\MusicDown\obj\Debug\com.winne.MusicDown.g.resources
 F:\MusicDown\bin\Debug\com.winne.MusicDown.exe
 F:\MusicDown\bin\Debug\com.winne.MusicDown.pdb
+F:\MusicDown\MusicDown\obj\Debug\com.winne.MusicDown.exe
+F:\MusicDown\MusicDown\obj\Debug\com.winne.MusicDown.pdb
