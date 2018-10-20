@@ -1,0 +1,17 @@
+G:\wsyyxzq_16811\bin\Debug\com.winne.MusicDown.exe
+G:\wsyyxzq_16811\bin\Debug\com.winne.MusicDown.pdb
+G:\wsyyxzq_16811\obj\Debug\com.winne.MusicDown.g.resources
+G:\wsyyxzq_16811\obj\Debug\com.winne.MusicDown.exe
+G:\wsyyxzq_16811\obj\Debug\com.winne.MusicDown.pdb
+F:\无损音乐下载器\obj\Debug\com.winne.MusicDown.exe
+F:\无损音乐下载器\obj\Debug\com.winne.MusicDown.pdb
+F:\无损音乐下载器\bin\Debug\com.winne.MusicDown.exe
+F:\无损音乐下载器\bin\Debug\com.winne.MusicDown.pdb
+F:\无损音乐下载器\obj\Debug\无损音乐下载器.csprojResolveAssemblyReference.cache
+F:\无损音乐下载器\obj\Debug\com.winne.MusicDown.g.resources
+F:\MusicDown\obj\Debug\com.winne.MusicDown.exe
+F:\MusicDown\obj\Debug\com.winne.MusicDown.pdb
+F:\MusicDown\obj\Debug\无损音乐下载器.csprojResolveAssemblyReference.cache
+F:\MusicDown\obj\Debug\com.winne.MusicDown.g.resources
+F:\MusicDown\bin\Debug\com.winne.MusicDown.exe
+F:\MusicDown\bin\Debug\com.winne.MusicDown.pdb
